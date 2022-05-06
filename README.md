@@ -1,5 +1,5 @@
 # WCF
-Codes for reproducing our paper *"WCF: A hybrid similarity model for mitigating the cold-start problem of collaborative filtering in sparse data"*.
+Codes for reproducing our paper *"WCF: A hybrid similarity model for mitigating the cold-start problem of collaborative filtering in sparse data"*. Run **handler1.m**.
 
 Required Packages:
 - **Surprise** (See https://surprise.readthedocs.io/en/stable/).
