@@ -6,7 +6,7 @@ Required Packages:
 - Other Common machine learning packages such as sklearn, etc.
 
 Remark:
-- Movielens-100K and Movielens-1M datasets are builted in the **Surprise** package, so I only upload the Yahoo Music dataset.
+- Movielens-100K and Movielens-1M datasets are built-ins of the **Surprise** package, so I only upload the Yahoo Music dataset.
 
 Warning:
 - These codes have bad readability and user experience, and there are many functions that are not used.
