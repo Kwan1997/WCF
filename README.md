@@ -10,4 +10,4 @@ Remarks:
 - For other comparative similarity methods, you may refer to another repository of mine at https://github.com/Kwan1997/rec-similarity.
 
 Warning:
-- These codes (including those in my other repository) have bad readability and user experience, and there are many functions that are not used.
+- These codes (including those in my other repository) have bad readability and user experience, and there are many functions that are not used. Be cautious.
