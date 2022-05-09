@@ -3,7 +3,7 @@ Codes for reproducing our paper *"WCF: A hybrid similarity model for mitigating 
 
 Required Packages:
 - **Surprise** (See https://surprise.readthedocs.io/en/stable/).
-- Other Common machine learning packages such as sklearn, etc.
+- Other common machine learning packages such as sklearn, etc.
 
 Remarks:
 - Movielens-100K and Movielens-1M datasets are built-ins of the **Surprise** package, so I only upload the Yahoo Music dataset.
