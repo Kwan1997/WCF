@@ -12,4 +12,4 @@ Remarks:
 Warning:
 - These codes (including those in my other repository) have bad readability and user experience, and there are many functions that are not used. Be cautious.
 
-⚠️**Update**⚠️ (12/24/2024): You may need to comment everything about the package "klcore"; it is not used anywhere but can report errors. Thanks some of my group members for letting me know this.
+⚠️**Update**⚠️ (12/24/2024): You may need to comment everything about the package "klcore"; it is not used anywhere but can report errors. (Thanks some of my group members for letting me know this.)
